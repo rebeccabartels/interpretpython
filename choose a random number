@@ -1,0 +1,4 @@
+sprite = codesters.Sprite("person11", -200, -200)
+sprite.set_size(.8)
+
+dice_roll = int(sprite.ask("Choose a number 1 through 6."))
